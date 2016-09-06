@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace\Repositories\Android\UIButton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5246dfda97af1657690570f5106de9e73635c7f4">
+        <dex dex="D:\Workspace\Repositories\Android\UIButton\app\build\intermediates\pre-dexed\debug\instant-run_e4bdac8452d6e77122ab38a97027f1bdf3da989b.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\Repositories\Android\UIButton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="25a34a0ebe0ac7c699cf1dbbd293ea96549ffc03">
+        <dex dex="D:\Workspace\Repositories\Android\UIButton\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3051e954843ed21c2a30ab6c2444c32872224c2b.jar" />
+    </item>
+
+</items>
